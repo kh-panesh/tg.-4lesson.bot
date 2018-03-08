@@ -1,0 +1,19 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "engines": "9.3.0",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "node-telegram-bot-api": "^0.29.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.13.3"
+  }
+}
